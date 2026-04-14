@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "ticketparse"
 version = "0.1.0"
-description = "Learning-first scaffold for schema-constrained JSON extraction with QLoRA and DPO."
+description = "Schema-constrained JSON extraction from support tickets with QLoRA and DPO."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

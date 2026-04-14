@@ -91,7 +91,7 @@ _No saved row-level example was available for this category in the current artif
 ## Honest Conclusion
 
 SFT delivered the main semantic improvement on this task. DPO appears most useful here as a syntax and schema-discipline repair layer with selective semantic gains rather than as a universal quality win.
-The saved artifacts support a nuanced story: DPO improved the aggregate comparison, but it also slowed inference and still hurt some rows. That makes the repo more credible, not less, because the reporting layer shows both the wins and the remaining failure modes.
+The saved artifacts support a nuanced story: DPO improved the aggregate comparison, but it also slowed inference and still hurt some rows. The reporting layer shows both the wins and the remaining failure modes.
 
 ## Next Step
 
